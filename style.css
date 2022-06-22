@@ -1,0 +1,25 @@
+body {
+    background-color:lavender;
+    color:darkslateblue;
+}
+
+.heading {
+    width:80%;
+    font-size:27px;
+    font-weight:600;
+}
+
+#camera {
+    border:4px darkslateblue;
+    width:350px;
+    height:300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy {
+    color:darkslateblue;
+}
+
+#result, #captured_image {
+    width:350px;
+    height:265px;
+}
